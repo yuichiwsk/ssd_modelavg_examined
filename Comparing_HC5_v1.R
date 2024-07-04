@@ -8,7 +8,7 @@ lapply(package.list, require, character.only = TRUE)
 
 
 ### Data to pick up which chemicals to be analyzed ###
-dat01 <- read.xlsx("Supp_Materials_v3.xlsx", sheet = "Chemicals_examined")
+dat01 <- read.xlsx("TableS1_v1.xlsx", sheet = "Table_S1")
 StudyChemicals <- dat01$original.CAS
 length(StudyChemicals) # number of chemicals analyzed
 
