@@ -1,7 +1,7 @@
 # Comparison of model-averaging and single-distribution approaches to estimating species sensitivity distributions and hazardous concentrations for 5% of species
-This repository contains R code and data used in Iwasaki and Yanagihara (accepted; see below).
-
-Yuichi Iwasaki, Miina Yanagihara (accepted) Comparison of model-averaging and single-distribution approaches to estimating species sensitivity distributions and hazardous concentrations for 5% of species. Environmental Toxicology and Chemistry. ##(#): ####–####. 
+This repository contains R code and data used in Iwasaki and Yanagihara (2024).
+<br><br>
+Yuichi Iwasaki, Miina Yanagihara (2025) Comparison of model-averaging and single-distribution approaches to estimating species sensitivity distributions and hazardous concentrations for 5% of species. Environmental Toxicology and Chemistry. 44(3): 834–840
 
 ## R code
 Comparing_HC5_v1.R
